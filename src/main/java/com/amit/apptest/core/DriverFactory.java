@@ -11,10 +11,10 @@ import java.util.Map;
 
 public class DriverFactory {
 
-    private static final String BS_USER = "akd_BoQ7IJqftm1";
-    private static final String BS_KEY = "tcdM1hX4xqQtQ3qsCuqs";
+    private static final String BS_USER = "";
+    private static final String BS_KEY = "";
     private static final String BS_URL = "https://hub.browserstack.com/wd/hub";
-    private static final String BS_APP_ID = "bs://fb13ff48279675c3ffc2b1217cf2bb6c05ae063d";
+    private static final String BS_APP_ID = "";
 
     public static AppiumDriver create(String deviceName, String platformVersion, String testName) throws Exception {
 
