@@ -1,4 +1,4 @@
-# appium-mobile-automation-demo
+# appium-mobile-automation-browserstack
 This automation project uses Appium, Java, TestNG, Maven, single sign-on
 
 **Author: Amit Das**
