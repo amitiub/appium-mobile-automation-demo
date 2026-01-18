@@ -17,9 +17,9 @@
     </classes>
   </test>
 
-  <!-- Samsung Galaxy S25 -->
-  <test name="GalaxyS25" preserve-order="true">
-    <parameter name="deviceName" value="Samsung Galaxy S25"/>
+  <!-- Samsung Galaxy S23 -->
+  <test name="GalaxyS23" preserve-order="true">
+    <parameter name="deviceName" value="Samsung Galaxy S23"/>
     <parameter name="platformVersion" value="15.0"/>
     <parameter name="app" value="bs://fb13ff48279675c3ffc2b1217cf2bb6c05ae063d"/>
     <parameter name="project" value="SwagLabs App Tests"/>
@@ -33,10 +33,10 @@
     </classes>
   </test>
 
-  <!-- OnePlus 9 -->
-  <test name="OnePlus9" preserve-order="true">
-    <parameter name="deviceName" value="OnePlus 9"/>
-    <parameter name="platformVersion" value="11.0"/>
+  <!-- Google Pixel 9 Pro XL -->
+  <test name="Pixel9ProXL" preserve-order="true">
+    <parameter name="deviceName" value="Google Pixel 9 Pro XL"/>
+    <parameter name="platformVersion" value="15.0"/>
     <parameter name="app" value="bs://fb13ff48279675c3ffc2b1217cf2bb6c05ae063d"/>
     <parameter name="project" value="SwagLabs App Tests"/>
     <parameter name="build" value="Build-1"/>
