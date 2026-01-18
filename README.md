@@ -120,7 +120,7 @@ Quits driver
 BrowserStack App Automate runs one session per device.
 Inside the session:
 Video recording of full execution
-Per-test annotations: (This is not working yet)
+Per-test annotations: (This is not available yet, will update soon)
 “verifyAddToCartFlow: passed”
 “verifyCartVisibleAfterLogin: failed”
 Console logs
